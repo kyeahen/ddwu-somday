@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.2.2)
+  - FSCalendar (2.8.1)
+  - Kingfisher (5.15.0):
+    - Kingfisher/Core (= 5.15.0)
+  - Kingfisher/Core (5.15.0)
+  - SideMenuSwift (2.0.5)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (5.0.0)
+  - SwiftyMenu (0.6.4):
+    - SnapKit (~> 5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - FSCalendar
+  - Kingfisher
+  - SideMenuSwift
+  - SwiftyJSON
+  - SwiftyMenu (~> 0.6.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FSCalendar
+    - Kingfisher
+    - SideMenuSwift
+    - SnapKit
+    - SwiftyJSON
+    - SwiftyMenu
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  Kingfisher: 1acb67597a520c2d0310677e66d6e0af455ef757
+  SideMenuSwift: c7d99c270e0fad922a14b81f1dcc7a84c764bcd5
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwiftyMenu: 78a70edddb323f6b671ace1bd47853629cf040a9
+
+PODFILE CHECKSUM: b81fd99b184a881511a8f23ce63c0a32b1c9036b
+
+COCOAPODS: 1.9.3
